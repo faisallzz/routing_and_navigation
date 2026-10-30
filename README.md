@@ -1,16 +1,12 @@
-# navigasi_wisata
+# Screenshots Tugas 9: Routing and Navigations
+![Beranda](./screenshots/beranda.png)
+![Pantai](./screenshots/pantai.png)
+![Gunung](./screenshots/gunung.png)
+![Budaya](./screenshots/budaya.png)
+![Kuliner](./screenshots/kuliner.png)
+![Detail Wisata Pantai](./screenshots/detail_wisata_salah_satu_pantai.png)
+![Detail Wisata Gunung](./screenshots/detail_wisata_salah_satu_gunung.png)
+![Detail Wisata Budaya](./screenshots/detail_wisata_salah_satu_budaya.png)
+![Detail Wisata Kuliner](./screenshots/detail_wisata_salah_satu_kuliner.png)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
